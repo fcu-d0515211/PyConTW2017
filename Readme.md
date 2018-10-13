@@ -1,4 +1,5 @@
 # PyCon TW 2017 - 土炮股票分析系統
+# Jacky 打泡分析系統
 
 投影片網址： [https://goo.gl/JVLhRh](https://goo.gl/JVLhRh)
 
